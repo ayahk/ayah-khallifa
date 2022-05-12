@@ -1,0 +1,133 @@
+header img {
+    text-align: justify;
+    width: 564px;
+    height: 387px;
+    margin-left: 478px;
+    margin-top: -35px;
+
+
+
+
+
+
+}
+.square {
+    width: 803px;
+    height: 217px;
+    background-color: rgba(94,52,59,1.00);
+    text-align: center;
+    margin-top: 83px;
+    padding-left: 0px;
+    float: right;
+    margin-right: 370px;
+}
+
+
+.square img {
+    padding-right: 0px;
+    margin-right: 623px;
+    margin-top: 1px;
+    height: 214px;
+    width: 287px;
+
+}
+
+
+
+nav a {
+    margin-right: 37px;
+    margin-left: 37px;
+    color: hsla(0,0%,0%,1.00);
+    font-size: 26px;
+    padding-right: 18px;
+    padding-left: 22px;
+    text-align: center;
+    text-decoration: none;
+    padding-bottom: 0px;
+    min-height: 0px;
+}
+.square h1 {
+    text-align: center;
+    font-size: 13px;
+    color: rgba(0,0,0,1.00);
+    background-color: rgba(198,172,146,1.00);
+    height: 18px;
+    width: 70px;
+    padding-right: 24px;
+    margin-left: 586px;
+    margin-top: -161px;
+    padding-left: 20px;
+    margin-right: -27px;
+}
+
+.square p {
+    font-size: 16px;
+    margin-right: -571px;
+    margin-top: 14px;
+}
+
+
+
+nav {
+    height: 41px;
+    width: 1415px;
+    text-align: center;
+    background-color: rgba(198,172,146,1.00);
+    background-image: url(url);
+}
+
+
+
+.square h2 {
+    font-size: 93px;
+    padding-top: 0px;
+    margin-top: -158px;
+    margin-left: 242px;
+}
+.square.2 h2 {
+    text-align: center;
+}
+.square img {
+}
+footer  {
+    margin-top: 975px;
+    padding-top: 16px;
+    background-color: rgba(198,172,146,1.00);
+    height: 53px;
+    width: 1502px;
+}
+body {
+    background-color: rgba(225,225,225,1.00);
+}
+footer h2 {
+    margin-left: 1202px;
+    margin-top: -5px;
+    color: rgba(26,25,25,1.00);
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 800;
+
+
+}
+
+
+
+.square p {
+    font-size: 19px;
+}
+footer img {
+    width: 63px;
+    height: 45px;
+    margin-top: -367px;
+    margin-left: 19px;
+    margin-bottom: 20px;
+}
+.square a {
+    color: rgba(22,20,20,1.00);
+    text-decoration: none;
+}
+img3   {
+}
+
+@media (min-width : 600px ) and ( max-width : 900px ){
+}
